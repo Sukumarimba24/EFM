@@ -1,1 +1,7 @@
-# EFM
+**#SUMMARY**
+
+EFM I and EFM II focus on developing strong financial and analytical skills using Microsoft Excel. In EFM I, the main emphasis is on financial functions and business analysis techniques such as EMI calculation using PMT and PPMT, depreciation methods (SLN and DB), Future Value (FV), IRR, XIRR, and investment return analysis. It also includes What-If analysis tools like Goal Seek and Data Tables, tax calculations with surcharge scenarios, and share market data analysis using stock indices. Various dashboards were created using VLOOKUP, MATCH, Pivot Tables, charts, and conditional formatting to visualize sales, profit, and market performance effectively.
+
+EFM II builds on this foundation by introducing advanced Excel tools and automation through Macros (VBA). It includes creating automated EMI calculators, loan amortization schedules, search functions using command buttons, and reducing manual work through macro recording. Additionally, statistical analysis was performed using the Data Analysis Toolpak, including descriptive statistics, ANOVA, and multiple regression analysis to interpret relationships between variables.
+
+Overall, EFM I and EFM II together provide practical knowledge in financial modeling, data visualization, statistical analysis, dashboard development, and Excel automation, which are highly useful for careers in finance, business analytics, accounting, and banking.
